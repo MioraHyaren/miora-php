@@ -1,0 +1,373 @@
+body{
+	background-color:white ;
+}
+#titre{
+	font-family: bold;
+	font-size: 40px;
+	color: rgb(243,243,243);
+}
+#tab{
+	border: 0px solid pink;
+	width: 420px;
+	height: 420px;
+	float: left;
+	position: fixed;
+	left: 300px;
+}
+h6{
+	text-align:  center;
+	color: pink;
+	font-family: algerian;
+	margin-top: 250px;
+}
+#tab2{
+	border: 0px solid pink;
+	width: 320px;
+	height: 420px;
+	margin-top: 100px;
+	float: left;
+	position: relative;
+}
+.re{
+	position: relative;
+	left: 250px;
+}
+#acc{
+     text-align: center;
+
+}
+.glyphicon{
+	margin-top: 150px;
+	margin-left: 130px;
+	font-size: 50px;
+}
+hr{
+	border: 2px solid rgb(0,122,163);
+}
+.sar{
+	width: 420px;
+	height: 420px;
+}
+#pop{
+	text-align: center;
+}
+.hh{
+	border: 1px solid lightblue;
+}
+.pg{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+
+}
+#za{
+	border: 1px solid black;
+	height: 90px;
+}
+.zaa{
+     border: 1px solid blue;
+     width: 210px;
+     height: 90px;
+     float:left;
+     text-align: center;
+}
+.zae{
+    border: 1px solid black;
+    width:200px;
+    height: 90px;
+    float: right;
+    text-align: center;
+}
+#lect{
+      border: 1px solid black;
+      width: 420px;
+      height: 110px;
+      text-align: center;
+      border-radius: 3px;
+      box-shadow: 6px 7px 9px;
+
+
+}
+#corp{
+	background-image:url(../img/arrier.jpg);
+	background-repeat: repeat;
+}
+#titre{
+	color:pink ;
+	text-align: center;
+}
+#titre:hover{
+	font-family: Brush Script MT;
+	animation-name: flipInX;
+	animation: bouncout;
+	box-shadow: 0px 12px 2px;
+}
+
+.lol{
+	height: 10%;
+	height: auto;
+	text-align: center;
+	height: 240px;
+}
+#soaa{
+	height: 200px;
+	width: 250px;
+	animation-name:fadeInLeft;
+	animation-duration: 6s;
+	animation-iteration-count: 1;
+}
+
+#phone{
+	border-radius: 50%;
+	width: 150px;
+	height:200px;
+}
+.active{
+	color: pink;
+	background-color: pink;
+}
+.btn{
+	color-interpolation: rgb(153,0,204);
+	background: pink;
+}
+.btn:hover{
+	box-shadow:0px 4px 6px rgb(212,44,180);
+}
+#text{
+color:pink; 
+font-family: algerian;
+animation-name: bounceOutLeft;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+
+p{
+text-align:  center;
+color:Indigo;
+
+}
+
+.me{
+	color: ;
+	text-align: center;
+	font-family: Goudy Stout;
+	animation-name:flipInY;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+#phon{
+	border-radius: 60%;
+}
+.miora{
+	width: 70px;
+	height: 80px;
+	float: left;
+	border-radius: 60px;
+}
+.sara{
+	width: 450px;
+	height: 300px;
+  margin-left: 235px;
+}
+
+.sara:hover{
+	-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.sa{
+width: 300px;
+height: 350px;
+}
+.sa:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.laol{
+	width: 380px;
+	height: 200px;
+	margin-left: 200px;
+	padding: 0;
+	margin-top: 10px;
+}
+.sar{
+	width: 250px;
+	height: 200px;
+	float: center;
+}
+div li{
+	display: inline-block;
+  font-size: 20px;
+	margin: 50px;
+	padding: 0px;
+}
+.par{
+	margin-top: 10px;
+}
+
+p{
+
+	column-count: 1;
+	column-width: 100px;
+}
+
+#tab2{
+	margin-top:100px;
+	float:left ;
+	left: 50px;
+}
+.soa{
+	width: 450px;
+	height: 500px;
+}
+.collay{
+	color: blue;
+animation-name: bounceOutLeft;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+}
+.vid{
+	border: 50px;
+}
+
+#pj{
+	background-image :url(../img/arrier.jpg) ;
+	border: 1px solid pink;
+	border-radius: 20px; 
+}
+#pro{
+	background:rgb(200,125,125); 
+}
+#tab2{
+   width:370px;
+   height:480px;
+   border:1px solid black;
+   float :left;
+   margin-left:50px;
+   box-shadow:12px 10px 8px;
+}
+#tab2:hover{
+   color:grey;
+   animation-name: bounceInUp;
+   animation-iteration-count: infinite;
+}
+.ret{
+	color:2px LightPink;
+	float: center;
+	border: 2px solid rgb(204,10,255);
+}
+#vid{
+	height: 300px;
+	width: 400px;
+	border: 2px solid blue;
+}
+
+#about{
+	background-image: url(../img/arrier.jpg);
+	border: 1px solid pink;
+	border-radius: 20px;
+}
+.aaa{
+	border: 7px solid rgb(255,102,204);
+	position: relative;
+}
+.no{
+	font-family:Book Antiqua;
+	color:LightSalmon;
+	text-align:  center;
+}
+
+.prr{
+	color:blueviolet;
+	text-align:  center;
+}
+
+#font{
+	background-color:LightPink; 
+	border:1px solid pink;
+	border-radius: 20px;
+}
+.li1{
+	display: inline-block;
+}
+.imag{
+	width: 50px;
+	height: 50px;
+}
+.izao1:hover{
+	box-shadow: 2px 12px 5px rgb(255,102,255);
+}
+.izao1{
+	margin-left: 100px;
+	width: 250px;
+	height: 200px;
+	margin-top: 20px;
+	border-color: 5px solid LightPink;
+	
+}
+.izao2{
+	float: right;
+	width: 250px;
+	height: 200px;
+	margin-top: 20px;
+	border-color: 5px solid LightPink;	
+}
+.izao2:hover{
+	box-shadow: 5px 13px 12px 2px rgb(255,102,255);
+}
+p{
+	columns-count: 2;
+	font-size: 12px;
+}
+h1{
+text-align: center;
+color: Pink;
+animation-name:flipInY;
+animation-duration: 3s;
+animation-iteration-count:1;
+}
+h2{
+	color: Salmon;
+}
+
+.stopfade { 
+   opacity: 5;
+}
+.colon{
+	column-count: 2;
+}
+.png{
+	width: 70px;
+	height: 70px;
+	border-radius: 70px;
+}
+#footer{
+	   border: 1px solid black;
+	   height: 150px;
+	   background-color:rgb(59,59,59);
+	   width: 1300px;
+	   position: relative;
+	   right: 300px;
+}
+.re1{
+	
+	float: left;
+	position: relative;
+	left: 440px;
+}
+.re2{
+	float: left;
+	position: relative;
+	left: 450px;
+}
+.re3{
+	float: right;
+	position: relative;
+	right: 350px;
+}
+a{
+	color: lightblue;
+}
+#met{
+	font-style: italic;
+}
+	
